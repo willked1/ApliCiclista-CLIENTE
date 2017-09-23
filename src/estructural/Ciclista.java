@@ -21,6 +21,9 @@ public class Ciclista implements Serializable{
         this.numero = numero;
         this.equipo = equipo;
     }
+    
+    
+    
 
     public String getNombre() {
         return nombre;

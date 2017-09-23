@@ -19,6 +19,7 @@ public class ApliCiclistaRMICliente {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         String rmiRegistryHost = "192.168.16.15";
      	try {
             if (args.length > 0) {
